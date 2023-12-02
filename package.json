@@ -1,0 +1,22 @@
+{
+  "name": "msi-npm-package",
+  "version": "1.0.0",
+  "description": "my first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msisaif/msi-npm-package.git"
+  },
+  "keywords": [
+    "msi"
+  ],
+  "author": "msisaif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msisaif/msi-npm-package/issues"
+  },
+  "homepage": "https://github.com/msisaif/msi-npm-package#readme"
+}
